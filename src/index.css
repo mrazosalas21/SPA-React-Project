@@ -1,0 +1,23 @@
+.login{
+    width: 50%;
+    margin: auto;
+}
+
+.lbl-container{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#spa-container {
+    width: 60%;
+    margin: auto;
+}
+
+.tbl-container{
+    margin: auto;
+}
+
+
+table, th, td {
+  border: 1px solid;
+}
